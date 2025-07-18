@@ -1,4 +1,4 @@
-# Indonesian Misogyny Memes Dataset
+# Indonesian Misogyny Meme Dataset
 
 ## Download
 
