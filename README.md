@@ -1,5 +1,9 @@
 # Indonesian Misogyny Meme Dataset
 
+## Overview
+
+This dataset contains annotations for Indonesian women-related memes collected from Facebook. The dataset focuses on misogyny detection and content appropriateness classification within the Indonesian social media context.
+
 ## Download
 
 ### CSV File
