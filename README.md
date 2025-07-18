@@ -37,10 +37,6 @@ The CSV file contains 3 columns:
   - Appropriate content: 254 samples (40.4%)
   - Not appropriate content: 374 samples (59.6%)
 
-## Contact
-
-For questions about the dataset or collaboration opportunities, please refer to the original data source or repository maintainers.
-
 ---
 
 **Disclaimer**: This dataset is intended for academic and research purposes only. The content may include offensive material that does not reflect the views of the researchers or institutions involved in its creation.
